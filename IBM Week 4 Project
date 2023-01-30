@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "language_info": {
+      "codemirror_mode": {
+        "name": "python",
+        "version": 3
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "nbconvert_exporter": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.8"
+    },
+    "kernelspec": {
+      "name": "python",
+      "display_name": "Python (Pyodide)",
+      "language": "python"
+    }
+  },
+  "nbformat_minor": 4,
+  "nbformat": 4,
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": "# My Jupyter Notebook on IBM Watson Studio",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "**ZACH TAYLOR**\n\nCurrent: Air Traffic Controller\nDesired: Residential Developer ",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "*I hope I can utilize data science in order to help solve certain business problems and research. I believe this will allow me to be more efficient in running a business.*",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "### The code below is from a a quiz I completed from another course. Its intened to convert miles to kilomters and specifically a 100 mile trip to kilomters. Then it also produces the round trip in kilomters.",
+      "metadata": {}
+    },
+    {
+      "cell_type": "code",
+      "source": "def convert_distance(miles):\n        return miles*1.6\n    \nmy_trip_miles = 100\nmy_trip_km = convert_distance(100)\n\nprint(\"the distance in kilomters is \" + str(my_trip_km))\nprint(\"the round-trip in kilometers is \" + str((my_trip_km)*2))",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": 3,
+      "outputs": [
+        {
+          "name": "stdout",
+          "text": "the distance in kilomters is 160.0\nthe round-trip in kilometers is 320.0\n",
+          "output_type": "stream"
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": "List of best 3 airplanes:\n1. F22\n\n\n*** \n\n[Beautiful Home](https://www.youtube.com/watch?v=h2h-ArKlA-k&ab_channel=ArchiPro)",
+      "metadata": {}
+    },
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
